@@ -3,7 +3,8 @@ name: Update README with Maven build and coverage
 on:
   push:
     branches:
-      - main
+      - master
+      - develope
 
 jobs:
   update-readme:
