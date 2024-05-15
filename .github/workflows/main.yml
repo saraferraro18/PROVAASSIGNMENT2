@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-      - develope
+      - develop
 
 jobs:
   update-readme:
